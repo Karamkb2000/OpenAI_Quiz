@@ -1,4 +1,4 @@
-# Exam Generator using GPT-3.5 and Streamlit
+# Quiz Generator using GPT-3.5 and Streamlit
 
 Welcome to the Quiz Generator, a powerful tool that leverages the GPT-3.5 language model to create quizzes on any topic of your choice. This application is built using Python and Streamlit, making it easy to create, customize, and share quizzes with others.
 
@@ -17,7 +17,7 @@ Welcome to the Quiz Generator, a powerful tool that leverages the GPT-3.5 langua
 
 ## Requirements
 
-To use the Exam Generator, you need the following:
+To use the Quiz Generator, you need the following:
 
 - Python 3.8 or higher
 - An OpenAI API key to access GPT-3.5
@@ -81,7 +81,6 @@ Open the `secrets.toml` file and add the following lines:
 
 ```
 OPENAI_TOKEN = <yout-token>
-OPENAI_ORG = <your-org>
 ```
 
 ## Executing the App
