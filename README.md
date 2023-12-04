@@ -39,8 +39,8 @@ cd OpenAI_Quiz-main
 3. Create a virtual environment and activate it:
 
 ```
-python3 -m venv venv
-source venv/bin/activate
+py -m venv venv
+.\venv\Scripts\activate
 ```
 
 Alternatively, you can use `conda` to create a virtual environment:
