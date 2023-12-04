@@ -91,10 +91,4 @@ streamlit run main.py
 
 The Exam Generator app should now be accessible in your web browser at `http://localhost:8501`.
 
-## Contributing
 
-We welcome contributions to improve the Exam Generator. If you'd like to contribute, please fork the repository and create a pull request with your proposed changes. We'll review and merge the changes as appropriate.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
