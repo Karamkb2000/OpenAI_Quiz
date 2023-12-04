@@ -33,7 +33,7 @@ git clone https://github.com/Karamkb2000/OpenAI_Quiz.git
 2. Change to the project directory:
 
 ```
-cd exam-generator
+cd OpenAI_Quiz-main
 ```
 
 3. Create a virtual environment and activate it:
