@@ -2,6 +2,9 @@
 
 Welcome to the Quiz Generator, a powerful tool that leverages the GPT-3.5 language model to create quizzes on any topic of your choice. This application is built using Python and Streamlit, making it easy to create, customize, and share quizzes with others.
 
+![Screenshot (85)](https://github.com/Karamkb2000/OpenAI_Quiz/assets/104793458/ef5a598d-322e-4eff-a83e-a66b200043a1)
+
+
 ## Table of Contents
 
 - [Requirements](#requirements)
